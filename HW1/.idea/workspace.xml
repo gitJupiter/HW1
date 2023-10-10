@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a35e72a4-7287-4687-84d0-0b0c40250d28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/loginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/loginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/successPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/config.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2WBG02ZdLHRnjuBnDHNk3UAObBC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,8 +38,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Milon/Documents/Github/HW1/HW1/src/test/java/stepDef"
+    "git-widget-placeholder": "feature/qa1__login",
+    "last_opened_file_path": "C:/Users/Milon/Documents/Github/HW1/HW1/src/test/java/stepDef",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -101,6 +94,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/base/config.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
