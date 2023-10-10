@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a35e72a4-7287-4687-84d0-0b0c40250d28" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/base/config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/config.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature/qa1__login",
+    "git-widget-placeholder": "branch__2",
     "last_opened_file_path": "C:/Users/Milon/Documents/Github/HW1/HW1/src/test/java/stepDef",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
